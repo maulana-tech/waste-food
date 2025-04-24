@@ -10,7 +10,7 @@ Aplikasi web sederhana yang memungkinkan pengguna mengunggah gambar sampah makan
 
 1.  **Clone repositori:**
     ```bash
-    git clone <https://github.com/maulana-tech/waste-food.git>
+    git clone https://github.com/maulana-tech/waste-food.git
     cd waste-food
     ```
 2.  **Install dependensi Node.js:**
